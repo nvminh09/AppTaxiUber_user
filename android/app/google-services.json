@@ -1,0 +1,49 @@
+{
+  "project_info": {
+    "project_number": "580756939736",
+    "firebase_url": "https://active-pillar-421416-default-rtdb.firebaseio.com",
+    "project_id": "active-pillar-421416",
+    "storage_bucket": "active-pillar-421416.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:580756939736:android:033f5cb6e02ed8de8b88ad",
+        "android_client_info": {
+          "package_name": "com.cdtkpm.driversapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCISOwg9GnoQLAqXDSdYg7e1bLCuiXLxv8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:580756939736:android:9915a7b8852922f68b88ad",
+        "android_client_info": {
+          "package_name": "com.cdtkpm.usersapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCISOwg9GnoQLAqXDSdYg7e1bLCuiXLxv8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
